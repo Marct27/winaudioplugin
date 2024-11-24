@@ -2,7 +2,7 @@ type: plugin4
 name: WinAudio
 displayName: WinAudio
 description: Adds features missing from the Loupedeck "Volume Mixer" control center
-version: 1.0
+version: 1.1
 
 author: NotADoctor99
 copyright: Copyright (c) 2023 NotADoctor99. All rights reserved.
@@ -19,4 +19,4 @@ supportedDevices:
     - LoupedeckCtFamily
     - LoupedeckPlusFamily
 
-minimumLoupedeckVersion: 5.6
+minimumLoupedeckVersion: 6.0.1
