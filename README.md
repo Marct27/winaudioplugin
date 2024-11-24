@@ -10,4 +10,5 @@ More features will be added in the future. Request them [here](https://github.co
     <img src="https://github.com/notadoctor99/winaudioplugin/raw/master/img/screenshot1.png?raw=true" alt="WinAudioPlugin"/>
 </p>
 
-Tested with [Loupedeck 5.6.2](https://loupedeck.com/downloads/).
+Tested with [Loupedeck 6.0.1](https://loupedeck.com/downloads/).
+Tested on Loupedeck Live S
